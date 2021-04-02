@@ -1,3 +1,6 @@
 Hi! this is my first file.
 second line
+<<<<<<< HEAD
+adding thirdline to the file
 adding fourth line
+>>>>>>> 0d613f498dce7f12befd150bea46f4c1a9017848
