@@ -1,10 +1,6 @@
 Hi! this is my first file.
 second line
-<<<<<<< HEAD
 adding thirdline to the file
 adding fourth line
-<<<<<<< HEAD
->>>>>>>IT
->>>>>>> 0d613f498dce7f12befd150bea46f4c1a9017848
-Appending fifthe line to the file
->>>>>>> 94ce968419863a39695f86667709f4141f3af70c
+ding fifthe line to the file
+
